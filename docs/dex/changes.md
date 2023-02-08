@@ -1,4 +1,4 @@
-* 2023-02-08 13:59:03Z [Malware detection in Automattic](../8)
+* 2023-02-08 14:01:04Z [Malware detection in Automattic](../8)
 * 2023-02-01 07:39:30Z [The WordPress way of resolving update packages](../7)
 * 2023-01-18 20:18:41Z [Avoid saving not-string data to WordPress database](../6)
 * 2023-01-18 20:10:14Z [Vim quickfix list on current word](../5)

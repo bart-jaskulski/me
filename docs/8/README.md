@@ -8,6 +8,6 @@ You can easily check your plugin violations with following command:
 docker run --rm $(pwd):/data ghcr.io/jvoisin/php-malware-finder
 ```
 
-Custom rules from Automattic can be found in their GitHub repository[1].
+Custom rules from Automattic can be found in their GitHub repository[^1].
 
-[1]: <https://github.com/Automattic/php-malware-finder>
+[^1]: <https://github.com/Automattic/php-malware-finder>
