@@ -1,3 +1,4 @@
+* 2023-03-23 06:07:38Z [`$wpdb->prepare` gotcha with placeholders](../11)
 * 2023-03-22 20:18:20Z [Max index length in older MySQL](../10)
 * 2023-02-17 11:11:00Z [Loading vim quickfix list from grep](../9)
 * 2023-02-08 14:01:04Z [Malware detection in Automattic](../8)
