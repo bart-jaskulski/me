@@ -1,8 +1,6 @@
 # Composer packages in GitLab
 
-It would be nice to contribute a feature for composer packages in gitlab which would allow zip
-packages to be uploaded as artifacts. This is needed for PHP projects which has some assets build
-during the pipeline. Besides it might simplify the workflow.
+It would be nice to contribute a feature for composer packages in gitlab which would allow zip packages to be uploaded as artifacts. This is needed for PHP projects which has some assets build during the pipeline. Besides it might simplify the workflow.
 
 Though, it requires ruby knowledge, which I lack of.
 
